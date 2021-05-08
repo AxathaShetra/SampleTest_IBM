@@ -15,6 +15,7 @@ Details of Tools and Language:
 - Selenide API
 - Language: JAVA 
 
+NOTE:
 - Test can be found under: Projects\google-test\src\test\java\org\selenide\examples\Test1
 - Test Screenshot can be found under: Projects\google-test\build\reports\tests\org\selenide\examples\Test1\userSearch
 - POM has the required dependencies(selenide, junit)
